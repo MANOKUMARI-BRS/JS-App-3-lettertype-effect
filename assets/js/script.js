@@ -9,8 +9,7 @@ let chathams_blue = "#1A4B84";
 function setContent() {
   const content = `
   <div class="container">
-  <div class="row"
-   <h2 data-type data-type-min="100" data-type-max="300">
+  <div class="row">
     <h2 data-type data-type-min="100" data-type-max="300">
      Main Heading
     </h2>

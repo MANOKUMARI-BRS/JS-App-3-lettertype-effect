@@ -2,15 +2,16 @@
 const containerDiv = document.getElementById("content");
 const resetBtn = document.getElementById("resetBtn");
 
-//Default theme
+// Default theme
 let chathams_blue = "#1A4B84";
 
 // function that sets the content
 function setContent() {
   const content = `
   <div class="container">
-  <div class="row">
+  <div class="row"
    <h2 data-type data-type-min="100" data-type-max="300">
+    <h2 data-type data-type-min="100" data-type-max="300">
      Main Heading
     </h2>
     <p class="text-start lh-lg" data-type data-type-min="1" data-type-max="6">

@@ -20,6 +20,7 @@ h1 {
     color: var(--primary-color);
 }
 
+
 h2 {
     text-decoration: underline;
 }
@@ -28,7 +29,6 @@ p {
     text-align: center;
     color: #055BA6;
 }
-
 
 
 .currency {
